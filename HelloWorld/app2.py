@@ -1,1 +1,0 @@
-print('Dewmi Doi')
